@@ -1,0 +1,30 @@
+---
+title: "Manual test"
+teaching: 10
+exercises: 2
+---
+
+:::::::::::::::::::::::::::::::::::::: questions 
+
+- Can Christina follow directions? 
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: objectives
+
+- Experimentation. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+Made this the old fashioned way, with `cp`, haha. 
+
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- I should read more carefully. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!-- Please do not delete anything below this line -->
+
+```{r links, child = sandpaper::template_links()}
+```
